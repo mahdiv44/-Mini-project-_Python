@@ -26,4 +26,4 @@ while True:
    
   else : 
 
-   print("Wrong !")
+   print("Wrong ! try again")
