@@ -1,2 +1,3 @@
 # -Mini-project-_Python
-python project (timer and . . . ) 
+python project , password generator 
+install python and run code . 
